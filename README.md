@@ -23,12 +23,12 @@
 <div align="left">
 
 <img 
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiigos&exclude_repo=metodos-uteis&layout=compact&theme=tokyonight"
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayer-07&exclude_repo=metodos-uteis&layout=compact&theme=tokyonight"
    min-width="350px" 
    max-width="350px" 
    width="350px" 
    align="left"
-   alt="Guilherme Alves">
+   alt="Bayer">
 
 ###
 
