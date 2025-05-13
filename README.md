@@ -24,7 +24,7 @@
 <div align="left">
 
 <img 
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayer-07&exclude_repo=metodos-uteis&layout=compact&theme=tokyonight"
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayer-07&exclude_repo=metodos-uteis&layout=compact&theme=dark"
    min-width="350px" 
    max-width="350px" 
    width="350px" 
